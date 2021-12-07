@@ -1,0 +1,19 @@
+.places__container {
+    max-width: 984px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(min-content, max-content));
+    grid-template-rows: repeat(2, auto);
+    gap: 40px;
+}
+
+@media (max-width: 760px) {
+    .places__container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+    }
+    
+}

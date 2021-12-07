@@ -1,0 +1,53 @@
+@import url(../vendors/normalize.css);
+
+@import url(../vendors/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/header/__lang-switch/header__lang-switch.css);
+@import url(../blocks/header/__lang-switch-link/header__lang-switch-link.css);
+@import url(../blocks/header/__lang-switch-link/_activated/header__switch-link_activated.css);
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image-container/lead__image-container.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__image-caption/lead__image-caption.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__main-text/intro__main-text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list-item/intro__list-item.css);
+@import url(../blocks/intro/__span-accent/intro__span-accent.css);
+
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__image/gllery__image.css);
+
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__container/places__container.css);
+@import url(../blocks/places/__title/places__title.css);
+@import url(../blocks/places/__image/places__image.css);
+@import url(../blocks/places/__website/places__website.css);
+@import url(../blocks/places/__url-heading/places__url-heading.css);
+@import url(../blocks/places/__link/places__link.css);
+
+@import url(../blocks/places/__main-text/places__main-text.css);
+@import url(../blocks/places/__paragraph/places__paragraph.css);
+
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__image/cover__image.css);
+@import url(../blocks/cover/__heading/cover__heading.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__list/menu__list.css);
+@import url(../blocks/menu/__list-item/menu__list-item.css);
+@import url(../blocks/menu/__link/menu__link.css);

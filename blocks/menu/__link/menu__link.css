@@ -1,0 +1,21 @@
+.menu__link {
+    color: white;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.menu__link:hover {
+    opacity: .8;
+}
+
+@media (max-width: 320px) {
+    .menu__link {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 24px;
+    }
+}
