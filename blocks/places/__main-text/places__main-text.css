@@ -6,8 +6,10 @@
     
 }
 
-@media (max-width: 320px) {
+@media (max-width: 710px) {
     .places__main-text {
-        align-items: center;    
+        align-items: center;  
+        grid-column: auto;
+        grid-row: auto;  
     }
 }

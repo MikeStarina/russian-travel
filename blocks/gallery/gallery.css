@@ -4,6 +4,9 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(234px, 1fr));
     gap: 16px;
+    justify-items: stretch;
+    align-items: center;
+
 
     
     
@@ -17,6 +20,8 @@
 
 @media (max-width: 320px) {
     .gallery {
+        
         padding: 64px 16px 0;
+        gap: 12px;
     }
 }

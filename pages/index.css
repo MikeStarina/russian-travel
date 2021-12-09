@@ -25,7 +25,8 @@
 @import url(../blocks/intro/__span-accent/intro__span-accent.css);
 
 @import url(../blocks/gallery/gallery.css);
-@import url(../blocks/gallery/__image/gllery__image.css);
+@import url(../blocks/gallery/__image/gallery__image.css);
+
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/__container/places__container.css);
