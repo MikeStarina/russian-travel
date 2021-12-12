@@ -9,8 +9,10 @@
 
 @media (max-width: 710px) {
     .places__main-text {
+        max-width: 352px;
         align-items: center;  
         grid-column: auto;
         grid-row: auto;  
+        padding: 0 16px 0;
     }
 }
